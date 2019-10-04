@@ -8,11 +8,11 @@
 /* Farbe verändern */
 .ipsLogin,
 .ipsWebFront {
-	background-color: #aaaaaa;
-	background-image: -webkit-linear-gradient(top,rgba(255,255,255,0.5) 0,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.5) 100%);
+    background: rgb(18,55,71);
+    background: radial-gradient(circle, rgba(18,55,71,1) 0%, rgba(25,103,116,1) 100%);
 }
 
 .ipsTabPane > .navigation ,
 .ipsContentChanger > .navigation {
-	background-color: #eeeeee;
+	background-color: #0f2b39;
 }
