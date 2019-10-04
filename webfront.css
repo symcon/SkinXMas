@@ -1,0 +1,18 @@
+/* Logo austauschen */
+
+.ipsLogin > .logo {
+	background-image: url(logo.svg);
+	height: 87px;
+}
+
+/* Farbe verändern */
+.ipsLogin,
+.ipsWebFront {
+	background-color: #aaaaaa;
+	background-image: -webkit-linear-gradient(top,rgba(255,255,255,0.5) 0,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.5) 100%);
+}
+
+.ipsTabPane > .navigation ,
+.ipsContentChanger > .navigation {
+	background-color: #eeeeee;
+}
