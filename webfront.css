@@ -16,7 +16,7 @@
 	background-color: #0f2b39;
 }
 
-.ipsTabPane>.content {
+.ipsCategory {
     background-image: url(tree.svg);
     background-repeat: no-repeat;
     background-position: bottom center;
